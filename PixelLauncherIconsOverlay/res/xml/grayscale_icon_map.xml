@@ -359,6 +359,7 @@
     <icon drawable="@drawable/themed_icon_warp" package="com.cloudflare.onedotonedotonedotone" />
     <icon drawable="@drawable/themed_icon_waze" package="com.waze" />
     <icon drawable="@drawable/themed_icon_wear_os" package="com.google.android.wearable.app" />
+    <icon drawable="@drawable/themed_icon_whatsapp" package="com.fmwhatsapp" />
     <icon drawable="@drawable/themed_icon_whatsapp" package="com.gbwhatsapp" />
     <icon drawable="@drawable/themed_icon_whatsapp" package="com.mbwhatsapp" />
     <icon drawable="@drawable/themed_icon_whatsapp" package="com.whatsapp" />
