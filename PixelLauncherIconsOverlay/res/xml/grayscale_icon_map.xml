@@ -65,6 +65,7 @@
     <icon drawable="@drawable/themed_icon_camera" package="com.google.android.GoogleCameraEng" />
     <icon drawable="@drawable/themed_icon_camera" package="com.google.android.GoogleCameraPixelX" />
     <icon drawable="@drawable/themed_icon_camera" package="com.google.android.googlecamerapxh" />
+    <icon drawable="@drawable/themed_icon_camera" package="com.oneplus.camera" />
     <icon drawable="@drawable/themed_icon_camera" package="com.samsung.android.scan3d" />
     <icon drawable="@drawable/themed_icon_camera" package="com.samsung.android.scan3d" />
     <icon drawable="@drawable/themed_icon_camera" package="net.sourceforge.opencamera" />
