@@ -391,4 +391,8 @@
     <icon drawable="@drawable/themed_icon_zenly" package="app.zenly.locator" />
     <icon drawable="@drawable/themed_icon_zona" package="mobi.zona" />
     <icon drawable="@drawable/themed_icon_zoom" package="us.zoom.videomeetings" />
+    <icon drawable="@drawable/themed_icon_clash" package="com.github.kr328.clash" />
+    <icon drawable="@drawable/themed_icon_netease" package="com.netease.cloudmusic" />
+    <icon drawable="@drawable/themed_icon_wechat" package="com.tencent.mm" />
+    <icon drawable="@drawable/themed_icon_taobao" package="com.taobao.taobao" />
 </icons>
