@@ -3,5 +3,5 @@
 Add inherit on your vendor:
 
 ```makefile
-$(call inherit-product, packages/overlay/ThemeIcons/config.mk)
+$(call inherit-product, packages/overlays/ThemeIcons/config.mk)
 ```
