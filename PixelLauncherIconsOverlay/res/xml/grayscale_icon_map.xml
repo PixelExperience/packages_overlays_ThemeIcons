@@ -6,6 +6,7 @@
     <icon drawable="@drawable/themed_icon_99" package="com.taxis99" />
     <icon drawable="@drawable/themed_icon_adaway" package="org.adaway" />
     <icon drawable="@drawable/themed_icon_adguard" package="com.adguard.android" />
+    <icon drawable="@drawable/themed_icon_adidas_training" package="com.runtastic.android.results.lite" />
     <icon drawable="@drawable/themed_icon_adm" package="com.dv.adm" />
     <icon drawable="@drawable/themed_icon_adobe_lightroom" package="com.adobe.lrmobile" />
     <icon drawable="@drawable/themed_icon_aida" package="com.finalwire.aida64" />
@@ -88,6 +89,7 @@
     <icon drawable="@drawable/themed_icon_dialer" package="com.android.contacts.activities.twelvekeydialer" />
     <icon drawable="@drawable/themed_icon_dialer" package="com.android.incallui" />
     <icon drawable="@drawable/themed_icon_dialer" package="com.google.android.dialer" />
+    <icon drawable="@drawable/themed_icon_digilocker" package="com.digilocker.android" />
     <icon drawable="@drawable/themed_icon_digital_wellbeing" package="com.google.android.apps.wellbeing" />
     <icon drawable="@drawable/themed_icon_discord" package="com.discord" />
     <icon drawable="@drawable/themed_icon_disney_plus" package="com.disney.disneyplus" />
@@ -268,6 +270,7 @@
     <icon drawable="@drawable/themed_icon_rboard_manager" package="de.dertyp7214.rboardthememanager.debug" />
     <icon drawable="@drawable/themed_icon_recorder" package="com.google.android.apps.recorder" />
     <icon drawable="@drawable/themed_icon_reddit" package="com.reddit.frontpage" />
+    <icon drawable="@drawable/themed_icon_repainter" package="dev.kdrag0n.dyntheme" />
     <icon drawable="@drawable/themed_icon_resso" package="com.moonvideo.android.resso" />
     <icon drawable="@drawable/themed_icon_retro_music" package="code.name.monkey.retromusic" />
     <icon drawable="@drawable/themed_icon_root_explorer" package="com.speedsoftware.rootexplorer" />
